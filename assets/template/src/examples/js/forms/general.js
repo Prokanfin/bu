@@ -1,3 +1,3 @@
-jQuery(document).ready(function() {
-  Form.init();
-});
+jQuery(document).ready(function() {
+  Form.init();
+});

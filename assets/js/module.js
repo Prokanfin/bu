@@ -1,2 +1,2 @@
-var hrApp = angular.module('hrApp',['ngRoute']);
-
+var hrApp = angular.module('hrApp',['ngRoute']);
+
