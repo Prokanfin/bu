@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class UserModel extends Model
 {
     //
+<<<<<<< HEAD
     protected $table = 'user';
 
     public function scopeCheckUser($query,$username,$password){
@@ -31,4 +32,6 @@ class UserModel extends Model
 
     }
     
+=======
+>>>>>>> origin/master
 }
